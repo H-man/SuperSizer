@@ -1,0 +1,70 @@
+﻿#format:
+#group;width;height
+
+#square icons
+generic;22;22
+generic;44;44
+generic;48;48
+generic;50;50
+generic;58;58
+generic;60;60
+generic;64;64
+generic;66;66
+generic;71;71
+generic;72;72
+generic;80;80
+generic;87;87
+generic;88;88
+generic;96;96
+generic;114;114
+generic;120;120
+generic;150;150
+generic;142;142
+generic;144;144
+generic;152;152
+generic;180;180
+generic;300;300
+generic;310;310
+generic;512;512
+generic;620;620
+generic;1024;1024
+
+
+#apple screenshot landscape - 3.5, 4, 4.7, 5.5, ipad, ipad pro
+applescreenshot;960;640
+applescreenshot;1136;640
+applescreenshot;1334;750
+applescreenshot;2208;1242
+applescreenshot;1024;768
+applescreenshot;2732;2048
+
+#apple special (promo and so)
+apple;1136;640
+apple;1920;1080
+apple;2048;1536
+apple;1200;900
+apple;1334;750
+
+#windows uwp screenshot landscape
+winuwpscreenshot;1366;768
+winuwpscreenshot;1280;720
+
+#windows uwp special (wide tiles)
+winuwp;620;300
+winuwp;310;150
+winuwp;2400;1200
+
+#android screenshot landscape
+androidscreenshot;1366;768
+androidscreenshot;1280;720
+androidscreenshot;1280;800
+androidscreenshot;1024;768
+
+#android special (promo icons and stuff)
+android;1024;500
+android;180;120
+android;1280;720
+
+
+
+
